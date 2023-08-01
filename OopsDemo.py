@@ -27,5 +27,11 @@ obj1 = Calculator(4, 5)
 obj1.getData()
 print(obj1.Summation())
 
+obj2 = Calculator(5, 5)
+obj1.getData()
+print(obj2.Summation())
+
+
+
 
 
