@@ -3,6 +3,8 @@ str1 = "Consulting firm"
 str3 = "RahulShetty"
 
 print(str[1])   #a
+print(str[2])
+print(str[3])
 
 print(str[0:5])  # if you want substring in python
 

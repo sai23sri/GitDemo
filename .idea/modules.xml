@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Gitx.iml" filepath="$PROJECT_DIR$/.idea/Gitx.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitDemo.iml" filepath="$PROJECT_DIR$/.idea/GitDemo.iml" />
+>>>>>>> ac0642a25ef13baa149c9e1cfee6bdb922e23e34
     </modules>
   </component>
 </project>
