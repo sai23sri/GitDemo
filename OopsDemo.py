@@ -31,6 +31,10 @@ obj2 = Calculator(5, 5)
 obj1.getData()
 print(obj2.Summation())
 
+obj3 = Calculator(5, 6)
+obj1.getData()
+print(obj2.Summation())
+
 
 
 
