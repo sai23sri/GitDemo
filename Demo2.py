@@ -13,6 +13,7 @@ values.append("End")  #[1, 2, 'rahul', 'shetty', 4, 5, 'End']
 print(values)
 
 values[2] = "RAHUL" #Updating
+print(values[3])
 
 del values[0]
 
