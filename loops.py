@@ -7,6 +7,15 @@ if a > 2:
     print("second line")
 else:
     print("condition do not match")
+    print("condition fails")
+    print("sri")
+    print("sri")
+    print("sri")
+    print("sri")
+    print("sri")
+    print("sri")
+
+
 
 print("if else condition code is completed")
 
